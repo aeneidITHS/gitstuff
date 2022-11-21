@@ -1,6 +1,6 @@
 # gitstuff
 <h1> Heading level 1 </h1>
-<strong>hej på dig</strong>  
+<strong>hej på dig  </strong>  
 hej på dig
 <h2> Description of project </h2>
 <em>This is a place where I can try </em> and see what it does
